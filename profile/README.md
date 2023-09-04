@@ -15,7 +15,7 @@ así como el Backend web al que las apps móviles se conectan. https://github.co
 La recomendación es reportar errores generales de la plataforma, detalles de la versión web o sugerencias en este repo.
 
 * La app de Android de Isolaatti. Este repositorio contiene el código de la aplicación de 
-Android. https://github.com/Isolaatti-Software/IsolaattiForAndroid. Levanta issues o crea discusiones solamente
+Android. https://github.com/Isolaatti-Software/isolaatti-android. Levanta issues o crea discusiones solamente
 de lo relacionado con esta app, es decir, sin sugerencias de la plataforma en general.
 
 * El sitio web de ayuda de Isolaatti. El repositorio es el repositorio dedicado de GitHub pages de la organización,
